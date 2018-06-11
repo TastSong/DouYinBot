@@ -39,5 +39,4 @@
 
 ## 脸部截取
 
-![](https://github.com/TastSong/DouYinBot/tree/master/Douyin-Bot/screenshot/faces.png)
-
+![](https://github.com/TastSong/DouYinBot/blob/master/Douyin-Bot/screenshot/faces.png)
