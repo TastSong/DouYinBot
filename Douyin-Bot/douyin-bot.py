@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 import sys
 import random
 import time
@@ -23,8 +23,8 @@ VERSION = "0.0.1"
 
 # 我申请的 Key，随便用，嘻嘻嘻
 # 申请地址 http://ai.qq.com
-AppID = '1106890759'
-AppKey = 'cnFCejr0xKJXHfiA'
+AppID = ''
+AppKey = ''
 
 DEBUG_SWITCH = True
 FACE_PATH = 'face/'
